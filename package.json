@@ -1,7 +1,6 @@
 {
   "name": "@kirbic/schema-tools",
   "version": "0.0.0-development",
-  "private": "true",
   "publishConfig": {
     "access": "public"
   },
