@@ -1,6 +1,6 @@
 {
   "name": "@kirbic/schema-tools",
-  "version": "1.3.0",
+  "version": "0.0.0-development",
   "private": "true",
   "dependencies": {
     "fs-extra": "^9.1.0",
@@ -65,5 +65,9 @@
         }
       ]
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kirbic/schema-tools.git"
   }
 }
